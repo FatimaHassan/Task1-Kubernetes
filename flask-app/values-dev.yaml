@@ -1,0 +1,4 @@
+appName: dev-flask-app
+namespace: dev
+hostname: staging.fatima.com
+ingressPort: 32763

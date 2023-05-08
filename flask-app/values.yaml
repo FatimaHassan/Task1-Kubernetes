@@ -1,0 +1,7 @@
+appName: flask-app
+namespace: default
+image:
+  name: digitalocean/flask-helloworld
+  tag: latest
+hostname: fatima.com
+ingressPort: 32765

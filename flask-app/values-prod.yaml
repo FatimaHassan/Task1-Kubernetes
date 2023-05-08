@@ -1,0 +1,4 @@
+appName: prod-flask-app
+namespace: prod
+hostname: production.fatima.com
+ingressPort: 32764
