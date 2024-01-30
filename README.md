@@ -1,4 +1,4 @@
-# Task1-Kubernetes
+# Kubernetes/Helm Charts
 Helm chart for deploying a web application accessible to the public for different environments
 This Helm chart provides an easy and efficient way to deploy a web application that is accessible to the public. It allows for configuration of the application for different environments and includes support for calling secured endpoints using a bearer token specified as an environment variable.
 ## Description
